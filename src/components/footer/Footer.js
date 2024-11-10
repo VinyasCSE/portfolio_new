@@ -6,7 +6,7 @@ import './footer.css';
 const Footer = () => {
   return (
     <footer>
-      <a href="#home" className="footer__logo">Kavana</a>
+      <a href="#home" className="footer__logo">Vinyasgit init</a>
       <ul className="permalinks">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -20,7 +20,7 @@ const Footer = () => {
       <a href="#" target="_blank" rel="noreferrer" ><FaGithub /></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Kavana 2024. All rights reserved.</small>
+        <small>&copy; Vinyas 2024. All rights reserved.</small>
       </div>
     </footer>
   )

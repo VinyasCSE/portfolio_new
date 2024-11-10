@@ -18,8 +18,8 @@ const Portfolio = () => {
       description:
         "A Chat Application allows real-time messaging between users through a client interface.",
       technologies: "Html | CSS",
-      link: "https://github.com/kavanapoojary/chat",
-      github: "https://kavanapoojary.github.io/chat/",
+      link: "#",
+      github: "#",
     },
     {
       id: 2,
@@ -28,8 +28,8 @@ const Portfolio = () => {
       description:
         "The website Gadaikallu presents a scenic and culturally significant location, showcasing its natural beauty and historical relevance.",
       technologies: "React Js",
-      link: "https://kavanapoojary.github.io/Gadaikallu/",
-      github: "https://github.com/kavanapoojary/Gadaikallu",
+      link: "#",
+      github: "#",
     },
    
   ];
