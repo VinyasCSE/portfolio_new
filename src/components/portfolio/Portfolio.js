@@ -3,7 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/chat.png";
 import IMG2 from "../../assets/reservation-form.png";
 import IMG3 from "../../assets/Startup Agency Project.jpg";
-import IMG4 from "../../assets/gada.png";
+import IMG4 from "../../assets/pilikula.png";
 import IMG5 from "../../assets/Jokes Project.jpg";
 import IMG6 from "../../assets/Project4.jpg";
 import React from "react";
@@ -23,13 +23,13 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Gadaikallu",
+      title: "Pilikula",
       img: IMG4,
       description:
-        "The website Gadaikallu presents a scenic and culturally significant location, showcasing its natural beauty and historical relevance.",
+        "Discover the beauty of nature, culture, and adventure at Pilikula Park, where every moment is a journey into the heart of biodiversity and heritage.",
       technologies: "React Js",
-      link: "#",
-      github: "#",
+      link: "https://vinyascse.github.io/Pilikula_Park/",
+      github: "https://github.com/VinyasCSE/Pilikula_Park",
     },
    
   ];
