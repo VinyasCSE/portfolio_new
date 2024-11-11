@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio_new/static/css/main.8bf6f4a8.css",
+    "main.js": "/portfolio_new/static/js/main.e6107792.js",
+    "static/media/Vinyas.jpeg": "/portfolio_new/static/media/Vinyas.84cda8e2402c3c869687.jpeg",
+    "static/media/reservation-form.png": "/portfolio_new/static/media/reservation-form.832532681ceb32753760.png",
+    "static/media/Project4.jpg": "/portfolio_new/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/portfolio_new/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/pilikula.png": "/portfolio_new/static/media/pilikula.2ffd662b4527ac61256c.png",
+    "static/media/Jokes Project.jpg": "/portfolio_new/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "static/media/chat.png": "/portfolio_new/static/media/chat.0c2f3b66a85052f1ecfc.png",
+    "index.html": "/portfolio_new/index.html",
+    "main.8bf6f4a8.css.map": "/portfolio_new/static/css/main.8bf6f4a8.css.map",
+    "main.e6107792.js.map": "/portfolio_new/static/js/main.e6107792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf6f4a8.css",
+    "static/js/main.e6107792.js"
+  ]
+}
